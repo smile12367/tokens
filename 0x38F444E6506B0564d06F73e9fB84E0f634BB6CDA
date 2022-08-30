@@ -1,0 +1,11 @@
+{
+    "name": "FULEX",
+    "website": "https://fulex.xyz",
+    "description": "FULEX  is a real community currency, so that all participants will be treated fairly.",
+    "explorer": "https://bscscan.com/address/0x38F444E6506B0564d06F73e9fB84E0f634BB6CDA",
+    "type": "BEP20",
+    "symbol": "FULEX",
+    "decimals": 18,
+    "status": "active",
+    "id": "0x38F444E6506B0564d06F73e9fB84E0f634BB6CDA"
+}
